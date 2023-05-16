@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on AWS
 - 🤔 I’m looking for help with Devops
-- 🥕 i love Carrots
+
