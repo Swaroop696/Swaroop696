@@ -10,9 +10,13 @@
 <div align="center">
  
  🔭 I’m a final year engineer student at **RNSIT,Bangalore**
+ 
  🤖 I'm currently working on something cool
+ 
   🌱 I’m currently learning **Machine Learning , Frontend tools , AWS**
+  
 💬 Ask me about **AIML , Cloud ,C++ ... or anything [here](https://github.com/Swaroop696/Swaroop696/issues)**
+
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
