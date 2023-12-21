@@ -3,20 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swaroop+KS!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h2 align="center">A passionate software developer from India</h2>
 
 <br/>
 
 <div align="center">
  
  🔭 I’m a final year engineer student at **RNSIT,Bangalore**
-
  🤖 I'm currently working on something cool
- 
- 🌱 I’m currently learning **Machine Learning , Frontend tools , AWS**
-
+  🌱 I’m currently learning **Machine Learning , Frontend tools , AWS**
 💬 Ask me about **AIML , Cloud ,C++ ... or anything [here](https://github.com/Swaroop696/Swaroop696/issues)**
-
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
