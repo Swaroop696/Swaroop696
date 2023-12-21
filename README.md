@@ -44,13 +44,8 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake gif](https://github.com/Swaroop696/Swaroop696/blob/output/github-contribution-grid-snake.gif)
-  
+<hr/>  
+"Embrace the challenge of coding as a journey of continuous learning and growth. In the world of programming, each line of code is a brushstroke on the canvas of innovation. As you navigate through the complexities, remember that every bug conquered is a step closer to mastery. Approach your code with passion, for in the realm of software development, persistence is the key that unlocks the door to success. Let your repository be a testament to your commitment, and may your commits be a symphony of progress. As you write the code that shapes the future, relish the moments of clarity and revel in the beauty of elegant solutions. Celebrate the challenges, for they are the stepping stones to greatness. Your code is not just a collection of characters; it's a legacy in the making. Code with purpose, and let your repository tell a story of determination, creativity, and the unwavering pursuit of excellence. Keep coding, keep creating, and may your journey in the world of development be both fulfilling and inspiring."
   <br/><br/><br/>
 </div>
 
